@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me 👋
 
 <!--
 **SJTU-gzh/SJTU-gzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
